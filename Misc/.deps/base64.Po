@@ -1,0 +1,62 @@
+base64.o: base64.c base64.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stdbool.h /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/bits/predefs.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/include/i386-linux-gnu/bits/stdlib.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include-fixed/limits.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/string.h \
+ /usr/include/i386-linux-gnu/bits/string.h \
+ /usr/include/i386-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/i386-linux-gnu/bits/endian.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h \
+ /usr/include/i386-linux-gnu/bits/string3.h
+
+base64.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdbool.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/bits/predefs.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include-fixed/limits.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/string.h:
+
+/usr/include/i386-linux-gnu/bits/string.h:
+
+/usr/include/i386-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/i386-linux-gnu/bits/endian.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/i386-linux-gnu/bits/string3.h:

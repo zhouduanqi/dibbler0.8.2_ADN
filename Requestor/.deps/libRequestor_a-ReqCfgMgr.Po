@@ -1,0 +1,1 @@
+libRequestor_a-ReqCfgMgr.o: ReqCfgMgr.cpp
